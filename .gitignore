@@ -1,0 +1,4 @@
+.env
+buckshot-roulette/cogs/__pycache__
+buckshot-roulette/models/__pycache__
+buckshot-roulette/venv

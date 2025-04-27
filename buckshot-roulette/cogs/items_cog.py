@@ -1,6 +1,5 @@
 from discord.ext import commands
 from models.game import Game
-from .game_cog import GameCog
 
 class ItemsCog(commands.Cog):
   def __init__(self, bot, game: Game):
